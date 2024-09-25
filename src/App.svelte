@@ -69,12 +69,12 @@
 <style>
 
   .fuente {
-    font-size: 12px;
+    font-size: 14px;
     font-style: italic;
   }
   
   h1 {
-      font-size: 14px;
+      font-size: 16px;
       margin-bottom: 3px;
       font-weight: 600;
       text-align: left;
@@ -82,7 +82,7 @@
     }
   
   .subtitulo {
-      font-size: 14px;
+      font-size: 16px;
       margin-bottom: 3px;
       font-weight: 400;
       text-align: left;
