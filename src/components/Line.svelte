@@ -47,8 +47,8 @@
 />
 
 <text
-    x={(xScale(data[0]?.Fecha) + xScale(data[data.length - 1]?.Fecha)) / 10}
-    y={yScale(35) + 17}
+    x={innerWidth > 600 ? (xScale(data[0]?.Fecha) + xScale(data[data.length - 1]?.Fecha)) / 10 : (xScale(data[0]?.Fecha) + xScale(data[data.length - 1]?.Fecha)) / 2}
+    y={yScale(35) + 80}
     fill="black"
     font-size="12"
     font-style="italic"
