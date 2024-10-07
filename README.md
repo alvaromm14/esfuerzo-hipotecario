@@ -1,1 +1,1 @@
-Visualización con tres gráficos interactivos con tooltips simultáneos sobre el mercado de la vivienda en España.
+Gráfico interactivo sobre la evolución del esfuerzo hipotecario en España.
