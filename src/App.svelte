@@ -38,7 +38,7 @@
 </script>
 
 <div class="main" bind:clientWidth={width}>
-  <h1 {width} {height}>El palo hipotecario de los 'boomers' para convertirse en propietarios</h1>
+  <h1 {width} {height}>El palo hipotecario a los 'boomers' para convertirse en propietarios</h1>
   <p {width} {height} class="subtitulo">% de la renta anual disponible del hogar mediano destinado al pago del primer año de una hipoteca al 80%</p>
   <div class="chart-container">
     <svg {width} {height}>
